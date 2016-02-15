@@ -1,5 +1,7 @@
 # 在一个软妹子会写 Markdown，设计师会写代码的团队是一种什么体验？[北京] 稀土掘金招聘社区运营、Node.js、全栈 Web 开发
 
+![](http://ww3.sinaimg.cn/mw690/5ef54d60jw1f10625goufj21kw0ktn11.jpg)
+
 ### 别人家的公司创始人都是霸道总裁，然而我们的创始人们却是小咖秀达人
 
 [![](http://ww2.sinaimg.cn/large/5ef54d60jw1f1008t9jpjj205k05k0su.jpg)](http://v.xiaokaxiu.com/v/QMbhsP9Gvd1cIDrLFyldXw__.html)
@@ -18,13 +20,11 @@
 
 ### 别人家的工作时间是 996，然而我们的工作时间是真实的 975
 
+![](http://ww4.sinaimg.cn/mw690/5ef54d60jw1f1069s17puj20kx0b4dj0.jpg)
+
 ### 如果你喜欢这样的我们，可以发简历到 [hr@xitu.io](mailto:hr@xitu.io) 哦
 
 ------
-
-> 别人都说有技术的人可以找到好工作
-
-> 然而我们想要成为这群拥有技术、热爱技术、学习技术的人背后的人
 
 [稀土掘金](http://gold.xitu.io)是一个技术文章分享社区，我们邀请优质的 [Co-Editors](http://gold.xitu.io/#/about) 来共同编辑分享每日专业的高质量技术文章。[移动端](http://gold.xitu.io/app)产品上线后曾被锤子应用市场、小米应用市场、酷安市场推荐。而网页版是完全由 Vue.js / Webpack 搭建的纯前端应用，后台为 Node.js / Express.js 。
 
@@ -93,4 +93,6 @@
 
 ## 等待对技术有热情、有爱的你，发送简历到 [hr@xitu.io](mailto:hr@xitu.io)
 ![](http://gold.xitu.io/images/jobs/team.png)
+
 —— 稀土掘金团队，2016 年 2 月
+
