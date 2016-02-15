@@ -1,6 +1,6 @@
 # 在一个软妹子会写 Markdown，设计师会写代码的团队是一种什么体验？[北京] 稀土掘金招聘社区运营、Node.js、全栈 Web 开发
 
-![](http://ww3.sinaimg.cn/mw690/5ef54d60jw1f10625goufj21kw0ktn11.jpg)
+![](http://ww2.sinaimg.cn/large/5ef54d60jw1f106lzhze4j20qo0e1why.jpg)
 
 ### 别人家的公司创始人都是霸道总裁，然而我们的创始人们却是小咖秀达人
 
@@ -22,9 +22,7 @@
 
 ![](http://ww4.sinaimg.cn/mw690/5ef54d60jw1f1069s17puj20kx0b4dj0.jpg)
 
-### 如果你喜欢这样的我们，可以发简历到 [hr@xitu.io](mailto:hr@xitu.io) 哦
-
-------
+## 如果你喜欢这样的我们，请发简历到 [hr@xitu.io](mailto:hr@xitu.io) 哦
 
 [稀土掘金](http://gold.xitu.io)是一个技术文章分享社区，我们邀请优质的 [Co-Editors](http://gold.xitu.io/#/about) 来共同编辑分享每日专业的高质量技术文章。[移动端](http://gold.xitu.io/app)产品上线后曾被锤子应用市场、小米应用市场、酷安市场推荐。而网页版是完全由 Vue.js / Webpack 搭建的纯前端应用，后台为 Node.js / Express.js 。
 
@@ -69,7 +67,7 @@
 - 稀土掘金 后端脚本及接口
 - 活动营销页面开发
 
-薪资： 12K - 22K / 月
+薪资： **12K - 22K / 月**
 
 ## 掘金社区运营
 
@@ -89,10 +87,11 @@
 - 稀土各媒体渠道合作
 - 稀土线上活动企划及执行
 
-薪资： 6K - 12K / 月
+薪资： **6K - 12K / 月**
 
 ## 等待对技术有热情、有爱的你，发送简历到 [hr@xitu.io](mailto:hr@xitu.io)
 ![](http://gold.xitu.io/images/jobs/team.png)
 
 —— 稀土掘金团队，2016 年 2 月
+
 
