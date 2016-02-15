@@ -10,9 +10,7 @@
 
 ### 别人家的开发、产品、设计师们只靠技术吃饭，然而我们团队的亲们还要看脸
 
-![](http://ww1.sinaimg.cn/large/5ef54d60jw1f100c8b7v2j205k05k3yj.jpg)
-![](http://ww3.sinaimg.cn/large/5ef54d60jw1f100cgq6bqj205k05ka9z.jpg)
-![](http://ww2.sinaimg.cn/large/5ef54d60jw1f100e3dne9j205k05kt90.jpg)
+![](http://ww4.sinaimg.cn/large/5ef54d60jw1f105w5am2fj20go05k0tg.jpg)
 
 ### 别人家的设计师、产品经理天天都在改需求，然而我们的设计师会写代码自己改
 
