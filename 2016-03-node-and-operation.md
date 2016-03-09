@@ -45,7 +45,7 @@
 - 熟练掌握 Express.js
 - 熟练掌握 Git 版本控制
 - 了解基础前端知识
-- 了解 Grunt, Gulp, Webpack
+- 了解 JS, CSS 的预处理器及构建工具
 - 了解数据库（SQL，NoSQL）
 
 加分项：
