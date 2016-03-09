@@ -2,7 +2,7 @@
 
 ![](http://ww2.sinaimg.cn/large/5ef54d60jw1f106lzhze4j20qo0e1why.jpg)
 
-## [稀土](https://xitu.io)专注于互联网技术人才的服务，为大家提供最好的内容发现、线下交流的平台。你可以发送简历到：[hr@xitu.io](maito:hr@xitu.io)
+## [稀土](https://xitu.io)专注于互联网技术人才的服务，请发送简历到：[hr@xitu.io](maito:hr@xitu.io)
 
 ## 关于掘金
 
