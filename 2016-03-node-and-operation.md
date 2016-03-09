@@ -11,7 +11,7 @@
 
 ![](http://ww2.sinaimg.cn/large/5ef54d60jw1f1qrthr8fdj21kw0d2dho.jpg)
 
-了解更多：[公司、团队信息](http://gold.xitu.io/about)，[翻译计划](https://github.com/xitu/gold-miner)，[合作伙伴](http://gold.xitu.io/partners)
+了解更多：[公司、团队信息](http://gold.xitu.io/about)，[掘金翻译计划](https://github.com/xitu/gold-miner)，[合作伙伴](http://gold.xitu.io/partners)
 
 ## 关于我们
 
