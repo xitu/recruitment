@@ -1,8 +1,7 @@
 # [北京] 稀土团队搬家喽，邀请 Node.js（20K - 35K）开发及社区内容运营加入（8K - 15K）
 
+## [稀土](https://xitu.io)专注于互联网技术人才的服务 [hr@xitu.io](mailto:hr@xitu.io)
 ![](http://ww2.sinaimg.cn/large/5ef54d60jw1f106lzhze4j20qo0e1why.jpg)
-
-## [稀土](https://xitu.io)专注于互联网技术人才的服务，请发送简历到：[hr@xitu.io](maito:hr@xitu.io)
 
 ## 关于掘金
 
