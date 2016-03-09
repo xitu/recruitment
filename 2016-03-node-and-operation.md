@@ -1,75 +1,61 @@
-# 在一个软妹子会写 Markdown，设计师会写代码的团队是一种什么体验？[北京] 稀土掘金招聘社区运营、Node.js、全栈 Web 开发
+# [北京] 稀土团队搬家喽，邀请 Node.js（20K - 35K）开发及社区内容运营加入（8K - 15K）
 
 ![](http://ww2.sinaimg.cn/large/5ef54d60jw1f106lzhze4j20qo0e1why.jpg)
 
-### 别人家的公司创始人都是霸道总裁，然而我们的创始人们却是小咖秀达人
+## [稀土](https://xitu.io)专注于互联网技术人才的服务，为大家提供最好的内容发现、线下交流的平台。你可以发送简历到：[hr@xitu.io](maito:hr@xitu.io)
 
-[![](http://ww2.sinaimg.cn/large/5ef54d60jw1f1008t9jpjj205k05k0su.jpg)](http://v.xiaokaxiu.com/v/QMbhsP9Gvd1cIDrLFyldXw__.html)
+## 关于掘金
 
-### 别人家的程序员都说自己单身，然而我们团队的程序员都在虐狗
+稀土的主要产品为[掘金](http://gold.xitu.io)，一个互联网优质技术的分享阅读社区。自去年 8 月份正式版上线以来，专业的技术文章已被超过 600 万人阅读，[移动端](http://gold.xitu.io/app)产品更被锤子应用市场、小米应用市场、酷安市场推荐，Android 版更被 Google 选入 Material Design 优秀产品。
 
-![](http://ww2.sinaimg.cn/large/5ef54d60jw1f100byujbtj205k05kq31.jpg)
+了解更多，我们的 [联合编辑](http://gold.xitu.io/about)，[翻译计划](https://github.com/xitu/gold-miner)，[合作伙伴](http://gold.xitu.io/partners)
 
-### 别人家的开发、产品、设计师们只靠技术吃饭，然而我们团队的亲们还要看脸
-
-![](http://ww4.sinaimg.cn/large/5ef54d60jw1f105w5am2fj20go05k0tg.jpg)
-
-### 别人家的设计师、产品经理天天都在改需求，然而我们的设计师会写代码自己改
-
-![](http://ww3.sinaimg.cn/large/5ef54d60jw1f100gz5lodj205k05kt97.jpg)
-
-### 别人家的工作时间是 996，然而我们的工作时间是真实的 975
-
-![](http://ww4.sinaimg.cn/mw690/5ef54d60jw1f1069s17puj20kx0b4dj0.jpg)
-
-## 如果你喜欢这样的我们，请发简历到 [hr@xitu.io](mailto:hr@xitu.io) 哦
-
-[稀土掘金](http://gold.xitu.io)是一个技术文章分享社区，我们邀请优质的 [Co-Editors](http://gold.xitu.io/#/about) 来共同编辑分享每日专业的高质量技术文章。[移动端](http://gold.xitu.io/app)产品上线后曾被锤子应用市场、小米应用市场、酷安市场推荐。而网页版是完全由 Vue.js / Webpack 搭建的纯前端应用，后台为 Node.js / Express.js 。
-
-自 2.0 发布以来，截止到 2015 年 12 月 31 日的 108 天里，掘金上分享的专业技术文章共被阅读超过 400 万次、其中文章共被收藏了超过 11 万次、技术标签被关注超过 27 万次。更完整的[掘金 2.0 版本总结](http://gold.xitu.io/2015)。
-
-我们希望的你：
-- 拥有开源、分享的精神
-- 知道好的工具的价值 > 投机取巧
-- 专注并擅长一个 hardskill （开发、设计、文案、吃）
+## 关于我们
 
 我们：
 - 愿意尝试新的技术：Vue.js, Webpack, Swift, Material Design
 - 使用好的创造工具：GitHub, Atom Editor, Sketch, Android Studio
-- 减少不必要的交流：Trello, Slack, Zeplin, 石墨文档
+- 提高团队协作效率：Trello, Slack, Zeplin, 石墨文档
 
-我们会：
-- 为开发岗位配备显示器， GitHub 付费账号
-- 让团队成员可免费参加国内各种技术大会
-- 准备舒适的办公环境、椅子、水果、零食
-- 提供每日饭补、晚饭报销、 10 点后出行报销
+我们提供：
+
+- 舒适的办公环境
+
+除此之外，还有：
+
+- GitHub 付费账号，支持大家参加各种国内技术大会
+- 年底 14 薪，每半年涨薪
+- 提供每日饭补、晚饭报销、 10 点后因公出行报销
 - 保证每月团建，每周的体育、电竞活动
 - LGBT-Friendly
 
-------
+## 招聘
 
-## Web 开发
+### 掘金 Node.js 开发
 
 基本要求：
-- 熟练掌握 HTML, CSS, JavaScript
-- 会使用 Grunt, Gulp, Webpack 及语言预处理器
-- 会使用 Git
-- 了解移动端网页的开发
-- 了解 Node.js, Express.js
+- 3 年以上工作经验（或水平符合）
+- 熟练掌握 JavaScript 语法及模块化编程
+- 熟练掌握 Express.js
+- 熟练掌握 Git 及 Git 部署
+- 了解基础前端支持
+- 了解 Grunt, Gulp, Webpack
+- 了解数据库（SQl，NoSQL）
 
 加分项：
-- 不依赖 Bootstrap, jQuery 等开源库
-- 了解 Angular.js, Vue.js 或 React.js
-- 对前端性能优化有了解
+- 会使用 ES6 语法
+- 熟练掌握 Webpack
+- 有基于 LeanCloud 开发经验
+- 对前端框架 Vue.js 或 React.js 有了解
 
 工作内容：
-- 稀土掘金 网站开发
-- 稀土掘金 后端脚本及接口
-- 活动营销页面开发
+- 掘金网站后台开发
+- 掘金后端脚本及接口
+- 掘金插件开发
 
-薪资： **12K - 22K / 月**
+薪资： **20K - 35K / 月**
 
-## 掘金社区运营
+### 掘金内容运营
 
 基本要求：
 - 文字基本功扎实，有微信、微博运营经验
@@ -77,21 +63,18 @@
 - 掌握一门编程语言或是一款设计工具
 
 加分项：
-- 会折腾新的互联网技术，经常刷 Github ， HN ， PH 等
+- 会折腾新的互联网技术，经常刷 Github，HN，PH 等
 - 网红，有一定的号召力
 - 经常参加线下技术交流活动
 
 工作内容：
-- 稀土掘金 内容、用户运营
-- 稀土各社交媒体账号文案
-- 稀土各媒体渠道合作
-- 稀土线上活动企划及执行
+- 掘金内容运营负责人
+- 掘金联合编辑的运营管理
+- 掘金内容渠道的合作
 
-薪资： **6K - 12K / 月**
+薪资： **8K - 15K / 月**
 
 ## 等待对技术有热情、有爱的你，发送简历到 [hr@xitu.io](mailto:hr@xitu.io)
 ![](http://gold.xitu.io/images/jobs/team.png)
 
-—— 稀土掘金团队，2016 年 2 月
-
-
+—— 稀土掘金团队，2016 年 3 月
