@@ -7,7 +7,11 @@
 
 稀土的主要产品为[掘金](http://gold.xitu.io)，一个互联网优质技术的分享阅读社区。自去年 8 月份正式版上线以来，专业的技术文章已被超过 600 万人阅读，[移动端](http://gold.xitu.io/app)产品更被锤子应用市场、小米应用市场、酷安市场推荐，Android 版更被 Google 选入 Material Design 优秀产品。
 
-了解更多，我们的 [联合编辑](http://gold.xitu.io/about)，[翻译计划](https://github.com/xitu/gold-miner)，[合作伙伴](http://gold.xitu.io/partners)
+联合编辑们来自：
+
+![](http://ww2.sinaimg.cn/large/5ef54d60jw1f1qrthr8fdj21kw0d2dho.jpg)
+
+了解更多：[公司、团队信息](http://gold.xitu.io/about)，[翻译计划](https://github.com/xitu/gold-miner)，[合作伙伴](http://gold.xitu.io/partners)
 
 ## 关于我们
 
