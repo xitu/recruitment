@@ -24,6 +24,8 @@
 
 - 舒适的办公环境
 
+![](http://ww4.sinaimg.cn/large/5ef54d60gw1f1qslonl8ej20m80du42c.jpg)
+
 除此之外，还有：
 
 - GitHub 付费账号，支持大家参加各种国内技术大会
