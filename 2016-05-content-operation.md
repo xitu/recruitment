@@ -41,7 +41,8 @@
 
 ## 关于我们
 
-我们：
+我们是这么一群人：
+
 - 愿意尝试新的技术：Vue.js, Webpack, Swift, Material Design
 - 使用好的创造工具：GitHub, Atom Editor, Sketch, Android Studio
 - 提高团队协作效率：Trello, Slack, Zeplin, 石墨文档
