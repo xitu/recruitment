@@ -64,6 +64,7 @@
 
 
 ## 等待对技术有热情、有爱的你，发送简历到 [hr@xitu.io](mailto:hr@xitu.io)
-![](http://gold.xitu.io/images/jobs/team.png)
+
+![](http://ww2.sinaimg.cn/large/675f4a91gw1f3lvvyl178j20cf0dtjuj.jpg)
 
 —— 稀土掘金团队，2016 年 5 月
