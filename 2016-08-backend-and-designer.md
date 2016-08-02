@@ -34,10 +34,10 @@
 - 有个人网站或在 Dribbble 发布过作品
 
 工作内容：
-- 
-- 
+- 参与掘金 Web/iOS/Android 视觉、交互与产品设计
+- 支持运营团队做出优质的平面设计
 
-薪资： **__K - __K / 月**
+薪资： **10K - 18K / 月**
 
 ## 等待对技术有热情、有爱的你，发送简历到 [hr@xitu.io](mailto:hr@xitu.io)
 ![](http://gold.xitu.io/images/jobs/team.png)
