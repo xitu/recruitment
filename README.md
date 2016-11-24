@@ -1,5 +1,6 @@
 # 招聘文案
 
+- 2016年11月：[内容运营](https://github.com/xitu/recruitment/blob/master/2016-11-content-operation.md)
 - 2016年8月：[后端开发，设计师](https://github.com/xitu/recruitment/blob/master/2016-08-backend-and-designer.md)
 - 2016年6月：[技术总监](https://github.com/xitu/recruitment/blob/master/2016-06-tech-leader.md)
 - 2016年5月：[内容运营](https://github.com/xitu/recruitment/blob/master/2016-05-content-operation.md)
